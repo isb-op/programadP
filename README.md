@@ -19,6 +19,7 @@ _O sistema de Departamento Pessoal implementado permite:_
 - `Funcionalidade 6`: Vetores: Os dados dos colaboradores são armazenados em vetores, incluindo nomes, CPFs, salários, datas de entrada e saída.
 - `Funcionalidade 7`: Constantes: LIMITECOLABORADORES define o limite de colaboradores que podem ser gerenciados (100).
 
+![Menu de opção principal](https://github.com/user-attachments/assets/5764bf2a-6cb5-4b29-a88a-43893288aae3)
 
 
 <h3>Observações</h3>
